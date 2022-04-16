@@ -11,6 +11,3 @@ then after it starts go to http://localhost:3000 to view the chat app
 
 Pull Requests are welcome
 
-Try the DEMO
-
-https://unichat-chat-app.herokuapp.com
